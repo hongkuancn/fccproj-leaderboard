@@ -1,5 +1,7 @@
 # Camper Leaderboard
 
+*__Note__: To look at a newly-built full-stack Voting App project using React, Redux, ExpressJS and MongoDB, please click [here](https://github.com/hongkuancn/fccproj-votingapp).*
+
 *__Note__: To look at a newly-built full-stack Todo List project using React, Redux, ExpressJS and MongoDB, please click [here](https://github.com/hongkuancn/todo-list).*
 
 This is the second React and Sass project from Data Visualization certificate on freeCodeCamp.<br />
